@@ -1,0 +1,6 @@
+boot/*.bin
+kernel/*.o
+kernel/*.elf
+kernel/*.bin
+novaos.img
+docs_screenshot.png
